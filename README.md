@@ -12,4 +12,4 @@ Semantic Kernel, llama3.2 ve OpenWeatherMap API kullanılarak geliştirilmiş ya
 Kurulum
 
 1. Ollama yükle ve llama3.2 modelini indir:
-2. `appsettings.json` dosyasına OpenWeatherMap kendi  API key'ini ekle:
+2. `appsettings.json` dosyasına OpenWeatherMap'dan kendi  API key'ini ekle:
